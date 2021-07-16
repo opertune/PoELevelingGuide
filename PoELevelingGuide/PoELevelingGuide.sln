@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoELevelingGuide", "PoELevelingGuide\PoELevelingGuide.csproj", "{F289856B-FABD-4AAE-BCDE-E487B96896C4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PoELevelingGuide Setup", "PoELevelingGuide Setup\PoELevelingGuide Setup.vdproj", "{7A409F25-FC75-4BD4-B485-A4BACE7BA487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F289856B-FABD-4AAE-BCDE-E487B96896C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F289856B-FABD-4AAE-BCDE-E487B96896C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F289856B-FABD-4AAE-BCDE-E487B96896C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F289856B-FABD-4AAE-BCDE-E487B96896C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A409F25-FC75-4BD4-B485-A4BACE7BA487}.Debug|Any CPU.ActiveCfg = Debug
+		{7A409F25-FC75-4BD4-B485-A4BACE7BA487}.Release|Any CPU.ActiveCfg = Release
+		{7A409F25-FC75-4BD4-B485-A4BACE7BA487}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B4A3BB9-2F08-4DCD-9415-71B9A5342C1E}
+	EndGlobalSection
+EndGlobal

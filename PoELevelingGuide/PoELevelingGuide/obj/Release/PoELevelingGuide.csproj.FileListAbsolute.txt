@@ -1,0 +1,16 @@
+C:\projet\PoELevelingGuide\PoELevelingGuide\bin\Release\PoELevelingGuide.exe.config
+C:\projet\PoELevelingGuide\PoELevelingGuide\bin\Release\PoELevelingGuide.exe.manifest
+C:\projet\PoELevelingGuide\PoELevelingGuide\bin\Release\PoELevelingGuide.application
+C:\projet\PoELevelingGuide\PoELevelingGuide\bin\Release\PoELevelingGuide.exe
+C:\projet\PoELevelingGuide\PoELevelingGuide\bin\Release\PoELevelingGuide.pdb
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.csprojAssemblyReference.cache
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.formQuete.resources
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.formProfil.resources
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.formAdd.resources
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.Properties.Resources.resources
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.csproj.GenerateResource.cache
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.csproj.CoreCompileInputs.cache
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.exe.manifest
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.application
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.exe
+C:\projet\PoELevelingGuide\PoELevelingGuide\obj\Release\PoELevelingGuide.pdb
