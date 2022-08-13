@@ -1,0 +1,70 @@
+body {
+    background-color: transparent;
+    margin: 0;
+    -webkit-app-region: no-drag;
+}
+
+.draggable:hover {
+    cursor: grab;
+}
+
+div {
+    margin-bottom: 7px;
+}
+
+.header {
+    height: 30px;
+    background-color: #353535;
+    -webkit-app-region: drag;
+}
+
+#close {
+    margin: 0 10px 0px 0;
+    position: absolute;
+    right: 0;
+    -webkit-app-region: no-drag;
+    color: white;
+
+    font-size: xx-large;
+}
+
+#close:hover {
+    cursor: pointer;
+    color: red;
+}
+
+
+#selectedAct {
+    -webkit-app-region: no-drag;
+    margin: 5px 0 0 0;
+    background-color: white;
+    border: none;
+}
+
+#selectedAct:hover {
+    cursor: pointer;
+    background-color: #999999;
+}
+
+.content {
+    background-color: white;
+    height: 176px;
+}
+
+.footer {
+    -webkit-app-region: drag;
+    background-color: #353535;
+    height: 30px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer>h2 {
+    margin: 0;
+}
+
+#quest {
+    margin: 0;
+}
